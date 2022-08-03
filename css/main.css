@@ -1,0 +1,16 @@
+.img{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.terminal{
+    background-color: #282c34;
+    color: #fff;
+}
+
+code.language-bash{
+    color: #fff;
+}
